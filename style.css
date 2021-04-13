@@ -395,4 +395,10 @@ footer p {
     margin-top: 30px;
     cursor: pointer;
   }
+
+  .imagem:hover,
+  .imagem:hover img {
+    width: 90%;
+    height: 90%;
+  }
 }
